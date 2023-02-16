@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-95uQnPbGfT)
 - Live Site URL: [Github Padges](https://kynur.github.io/stats-preview-card-component)
 
 ## My process
